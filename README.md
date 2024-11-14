@@ -1,5 +1,5 @@
 # <p align="center">DrakulaCsharp</p>
-Drakula is Draculatheme.Com based for Csharp winform application. You can customise the color palette on "Drakula.cs" and add more controls if needed (you can contribute to this project you are welcome),
+Drakula is Draculatheme.Com based for Csharp winform application. You can customise the color palette on **Drakula.cs** and add more controls if needed (you can contribute to this project you are welcome),
 I'll update this when i have free time.
 ## 🧐 Features    
 - DatagridView
