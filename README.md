@@ -1,5 +1,5 @@
 # <p align="center">DrakulaCsharp</p>
-Drakula is Draculatheme.Com based theme for Csharp winform application. You can customise the color palette on **Drakula.cs** and add more controls if needed (you can contribute to this project you are welcome),
+Drakula is Draculatheme.Com based theme for Csharp winform application. You can customise the color palette on **Drakula.cs** and add more controls if needed (you can contribute to this project),
 I'll update this when i have free time. Builded with Visual Studio 2022 (Net Framework 4.7.2).
 <p align="center">
   <img src="https://github.com/Yhzan95/Drakula.Csharp/blob/main/Main.png?raw=true" alt="Drakula C# Screenshot">
